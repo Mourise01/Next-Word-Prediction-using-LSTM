@@ -222,7 +222,6 @@ def create_model(total_words, max_sequence_len):
 ![Screenshot 2024-11-26 101520](https://github.com/user-attachments/assets/2ba0dea9-310f-44b7-9895-4ef47f836e8f)
 
 ### 6. Sample Text Prediction
-![Screenshot 2024-11-26 100750](https://github.com/user-attachments/assets/65a8971a-596c-4d01-8ee2-d142889c7388)
 ![Screenshot 2024-11-26 101704](https://github.com/user-attachments/assets/2f396084-80e3-47ab-a018-c6d5d31a7ed5)
 
 
