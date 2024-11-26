@@ -207,22 +207,24 @@ def create_model(total_words, max_sequence_len):
 
 ## OUTPUT
 ### 1. fit_vectorizer output
-![Screenshot 2024-11-11 111054](https://github.com/user-attachments/assets/5aba9d4f-e3ad-4ead-bcff-77d4a9c98881)
+![Screenshot 2024-11-26 100822](https://github.com/user-attachments/assets/b699d64b-c58e-4806-9ca7-8d209465f402)
 
 ### 2. n_grams_seqs output
-![Screenshot 2024-11-11 111101](https://github.com/user-attachments/assets/921e513f-0efd-4597-8456-2a150e95dea2)
+![Screenshot 2024-11-26 100750](https://github.com/user-attachments/assets/eae650c8-881e-4567-a3a3-dd173c1db846)
 
 ### 3. pad_seqs output
-![Screenshot 2024-11-11 111108](https://github.com/user-attachments/assets/8ab347f6-7b4e-4da3-a5f5-c73397475900)
+![Screenshot 2024-11-26 100924](https://github.com/user-attachments/assets/fc8df70c-74df-4cc8-87fa-5bed1a104a95)
 
 ### 4. features_and_labels_dataset output
-![Screenshot 2024-11-11 111114](https://github.com/user-attachments/assets/e152cd0d-3ca7-4aa0-9aa8-3d5237fe4f64)
+![Screenshot 2024-11-26 101007](https://github.com/user-attachments/assets/432c19cd-d882-4792-9f1e-6e3448baef2a)
 
 ### 5. Training Loss, Validation Loss Vs Iteration Plot
-![Screenshot 2024-11-11 111336](https://github.com/user-attachments/assets/33243212-4ee8-4b57-8222-4b23bf99e513)
+![Screenshot 2024-11-26 101520](https://github.com/user-attachments/assets/2ba0dea9-310f-44b7-9895-4ef47f836e8f)
 
 ### 6. Sample Text Prediction
-![Screenshot 2024-11-11 111343](https://github.com/user-attachments/assets/a8c1788c-fa6f-4593-b946-9551d7825b8a)
+![Screenshot 2024-11-26 100750](https://github.com/user-attachments/assets/65a8971a-596c-4d01-8ee2-d142889c7388)
+![Screenshot 2024-11-26 101704](https://github.com/user-attachments/assets/2f396084-80e3-47ab-a018-c6d5d31a7ed5)
+
 
 ## RESULT
 Thus, a trained text generator model capable of predicting the next word in a sequence from the given corpus is successfully implelemted.
